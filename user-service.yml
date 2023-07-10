@@ -1,0 +1,5 @@
+server:
+  port: 8081
+payment-service:
+  client:
+    url: http://localhost:8082
