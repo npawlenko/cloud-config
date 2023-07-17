@@ -2,4 +2,4 @@ server:
   port: 8082
 user-service:
   client:
-    url: http://localhost:8081
+    url: http://user-service:8081
