@@ -2,4 +2,4 @@ server:
   port: 8081
 payment-service:
   client:
-    url: http://localhost:8082
+    url: http://payment-service:8082
